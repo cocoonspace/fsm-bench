@@ -1,0 +1,6 @@
+github.com/cocoonspace/fsm v1.0.1 h1:dPjDYJh1XL7r8jERbAVFrk7kLzTOaRgx9EBoS9fV6PA=
+github.com/cocoonspace/fsm v1.0.1/go.mod h1:2NILMnDanocMM88qdqAzyq9Q1DwCjXqAIGtbhdXFC0Q=
+github.com/looplab/fsm v0.3.0 h1:kIgNS3Yyud1tyxhG8kDqh853B7QqwnlWdgL3TD2s3Sw=
+github.com/looplab/fsm v0.3.0/go.mod h1:PmD3fFvQEIsjMEfvZdrCDZ6y8VwKTwWNjlpEr6IKPO4=
+github.com/ryanfaerman/fsm v0.0.0-20160110232151-3dc1bc098027 h1:jza5nKzKUr9AcT44dyUU/9JlWosWpN/czeHvjjOfmrU=
+github.com/ryanfaerman/fsm v0.0.0-20160110232151-3dc1bc098027/go.mod h1:YyfH47/u2PwFuNemiiQdl6snRJ0lbo8ycqQo884S54s=
